@@ -1,4 +1,4 @@
-# Odi-es6
+# Syaif-es6
 Sebagai syarat untuk UTS Multiplatform
 
 Leader : 
