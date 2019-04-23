@@ -1,3 +1,12 @@
-# Syaiful-es6
-NAMA :Syaiful Bahri 
-NIM  :161552018150163
+# Odi-es6
+Sebagai syarat untuk UTS Multiplatform
+
+Leader : 
+
+Gilby Dhilega Yodiaz
+
+Member : 
+
+Yusri Ainur Cholis 
+
+Roikhatul Muafiroh
