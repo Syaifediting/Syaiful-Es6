@@ -3,10 +3,10 @@ Sebagai syarat untuk UTS Multiplatform
 
 Leader : 
 
-Gilby Dhilega Yodiaz
+Syaiful Bahri
 
 Member : 
 
-Yusri Ainur Cholis 
+Mohammad Sholahuddin 
 
-Roikhatul Muafiroh
+Anita Karin
